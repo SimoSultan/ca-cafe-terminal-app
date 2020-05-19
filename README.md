@@ -9,7 +9,7 @@
 
 ## Description
 
-A random little app that will ask if you want to know a random fact about Chuck Norris.
+A program that will show the user a menu, ask for their order or quit, input item quantities, see their running order and finally their bill.
 
 
 ---
@@ -17,7 +17,7 @@ A random little app that will ask if you want to know a random fact about Chuck 
 
 ## Motivation
 
-We were practicing methods in Ruby, and this was the challenge that was given, and I went a bit overboard. Code is spaghetti of today's standards yes. But just fulfilling the requirement of the challenge.
+To omplement a simple cafe app with a combination of concepts learnt so far and keeping the code DRY. We were practicing methods in Ruby, and this was the challenge that was given, and I went a bit overboard. Code is spaghetti of today's standards yes. But just fulfilling the requirement of the challenge.
 
 
 ---
