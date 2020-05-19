@@ -1,4 +1,4 @@
-# ca-fun-fact-generator
+# ca-cafe-terminal-app
 ##### By Simon Curran
 [www.simonmcurran.com](https://www.simonmcurran.com/)   
 
@@ -17,15 +17,7 @@ A random little app that will ask if you want to know a random fact about Chuck 
 
 ## Motivation
 
-We were practicing using Gems for Ruby, and this is what I chose from the Faker Gem.
-
-
----
-
-
-# Resources
-
-* [Faker](https://github.com/faker-ruby/faker) - Used to display Chuck Norris information.
+We were practicing methods in Ruby, and this was the challenge that was given, and I went a bit overboard. Code is spaghetti of today's standards yes. But just fulfilling the requirement of the challenge.
 
 
 ---
@@ -41,7 +33,7 @@ cd ~/ *path to folder you want to install game at*
 ```
 4. Clone the files from this repository by copying the following command line:
 ```
-git clone https://github.com/SimoSultan/ca-fun-fact-generator.git
+git clone https://github.com/SimoSultan/ca-cafe-terminal-app.git
 ```
 5. If you have Bundler installed already, skip this step, otherwise install Bundler with:
 ```
@@ -49,11 +41,11 @@ gem install bundler
 ```
 6. From here, navigate to the src folder of the cloned repository by copying:
 ```
-cd ca-fun-fact-generator/
+cd ca-cafe-terminal-app/
 ```
 7. Now copy this into terminal to run the game:
 ```
-./run-fun-fact.sh
+./run-cafe-app.sh
 ```
 
 
